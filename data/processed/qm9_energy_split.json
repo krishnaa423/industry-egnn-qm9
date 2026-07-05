@@ -1,0 +1,24 @@
+{
+  "dataset": {
+    "root": "data",
+    "metadata_name": "qm9_energy_split.json",
+    "target_index": 7,
+    "train_size": 500,
+    "val_size": 100,
+    "test_size": 100,
+    "batch_size": 32,
+    "seed": 7
+  },
+  "dataset_name": "QM9",
+  "dataset_size": 130831,
+  "target_index": 7,
+  "target_name": "U0",
+  "train_size": 500,
+  "val_size": 100,
+  "test_size": 100,
+  "batch_size": 32,
+  "target_stats": {
+    "mean": -11237.0751953125,
+    "std": 1039.859375
+  }
+}
